@@ -19,6 +19,7 @@ IP Address           Request Count
 192.168.1.1          234
 203.0.113.5          187
 10.0.0.2             92
+
 Identify the Most Frequently Accessed Endpoint:
 
 Extract the endpoints (e.g., URLs or resource paths) from the log file.
